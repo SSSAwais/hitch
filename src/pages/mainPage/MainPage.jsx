@@ -14,7 +14,7 @@ const MainPage = () => {
     <Pricing/>
     {/* <ExtraIncome/> */}
     <Customer/>
-    <GetStarted/>
+    {/* <GetStarted/> */}
     </>
   )
 }
