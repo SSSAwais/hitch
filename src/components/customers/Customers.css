@@ -1,0 +1,15 @@
+.customers {
+  padding: 80px 0px;
+}
+.customers .customer_heading {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: -1.87579px;
+  color: #19191b;
+}
+.customers .customer_heading span {
+  color: #03464a;
+}

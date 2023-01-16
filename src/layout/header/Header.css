@@ -1,0 +1,24 @@
+header{
+    background-color: #fff;
+}
+header ul li a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500 !important;
+  font-size: 16px !important;
+  line-height: 20px !important;
+  color: #000000 !important;
+  margin:0px 15px;
+}
+header .get_started {
+  font-family: "Circular Std" !important;
+  background: #03464a;
+  border: 1px solid #03464a;
+  border-radius: 5px;
+  color: #ffffff !important;
+  font-weight: 500; 
+  font-size: 16px !important;
+  line-height: 20px !important;
+  text-align: center !important;
+  padding:12px 20px !important;
+  margin-right: 0px !important;
+}

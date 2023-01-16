@@ -1,0 +1,44 @@
+.get_started_wrapper {
+  background-image: url("../../assets/images/formBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0px;
+}
+.started_heading h5 {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: -1.87579px;
+  text-align: center;
+  color: #ffffff;
+}
+.started_heading p {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: -0.656526px;
+  color: rgba(255, 255, 255, 0.7);
+}
+.form_section input{
+    padding:22px 20px;
+    margin-bottom: 15px;
+}
+.form_section .get_started{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.656526px;
+    width: 100%;
+    color: #FFFFFF;
+    background: #EF303A;
+border: 1px solid #C31A12;
+border-radius: 10px;
+padding:17px 0px;
+}
