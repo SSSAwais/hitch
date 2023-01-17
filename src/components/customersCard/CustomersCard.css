@@ -1,0 +1,48 @@
+.cus_card_wrapper {
+  background: #ffffff;
+  border: 1px solid #eae9f2;
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 15px;
+}
+.title_disp {
+  margin-left: 12px;
+}
+.title_disp h4 {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 28px;
+  letter-spacing: -0.656526px;
+  color: #19191b;
+  margin-bottom: 0px;
+}
+.title_disp p {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: -0.500211px;
+  margin-bottom: 0px;
+  color: #696871;
+}
+.cus_card_wrapper .discription {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 30px;
+  letter-spacing: -0.656526px;
+
+  color: #19191b;
+}
+.upper_section {
+  margin-bottom: 24px;
+}
+ @media screen and (max-width:1280px){
+  .cus_card_wrapper .discription{
+    font-size: 19px;
+  }
+ }

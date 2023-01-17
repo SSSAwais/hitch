@@ -6,7 +6,7 @@ import earn from "../../assets/images/earnn.png";
 const ExtraIncome = () => {
   return (
     <>
-      <section className="extra_income_wrapper">
+      <section className="extra_income_wrapper" id="extraIncome">
         <div className="container-xxl">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6 col-sm-12">

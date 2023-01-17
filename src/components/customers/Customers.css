@@ -9,7 +9,56 @@
   line-height: 70px;
   letter-spacing: -1.87579px;
   color: #19191b;
+  margin-bottom: 40px;
 }
 .customers .customer_heading span {
   color: #03464a;
+}
+.seeTestimonials {
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.500211px;
+  color: #03464a;
+  background-color: #fff;
+  border: none;
+}
+.seeTestimonials span {
+  margin-right: 12px;
+}
+.button_testi {
+  margin-top: 40px !important;
+}
+@media screen and (max-width: 1280px) {
+  .customers .customer_heading {
+    font-size: 46px;
+    line-height: 60px;
+  }
+  .customers {
+    padding: 50px 0px;
+  }
+ 
+}
+@media screen and (max-width: 992px) {
+  .customers .customer_heading {
+    font-size: 36px;
+    line-height: 45px;
+    margin-bottom: 20px;
+  }
+  .cus_card_wrapper .discription {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+@media screen and (max-width:768px){
+  .button_testi {
+    margin-top: 20px !important;
+}
+}
+@media screen and (max-width: 560px) {
+  .customers {
+    padding: 30px 0px;
+  }
 }

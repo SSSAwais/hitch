@@ -46,6 +46,11 @@
     font-size: 56px;
     line-height: 62px;
   }
+  .best_ride{
+    padding-top:50px;
+    padding-bottom: 50px;
+  }
+
 }
 @media screen and (max-width: 1070px) {
   .riding_exp_right h5 {
@@ -64,6 +69,12 @@
 @media screen and (max-width: 992px) {
   .cards_riding_wrapper {
     height: 250px;
+  }
+}
+@media screen and (max-width: 560px) {
+  .best_ride{
+    padding-top:30px;
+    padding-bottom: 30px;
   }
 }
 @media screen and (max-width: 768px) {

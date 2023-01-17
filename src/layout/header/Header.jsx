@@ -1,6 +1,7 @@
 import React from "react";
 import './Header.css';
 import logo from '../../assets/images/logo.png';
+import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <>
@@ -49,23 +50,14 @@ const Header = () => {
                               Action
                             </a>
                           </li>
-                          <li>
-                            <a className="dropdown-item" href="#">
-                              Another action
-                            </a>
-                          </li>
-                          <li>
-                            <a className="dropdown-item" href="#">
-                              Something else here
-                            </a>
-                          </li>
+                        
                         </ul>
                       </li>
                       <li className="nav-item">
                         <a
                           className="nav-link active"
                           aria-current="page"
-                          href="#"
+                          href="#extraIncome"
                         >
                           Driver
                         </a>
@@ -76,7 +68,8 @@ const Header = () => {
                         </a>
                       </li>
                       <li className="nav-item">
-                        <a className="nav-link get_started" href="#">
+                        <a href="#get_Started" className="nav-link get_started">
+
                           Get Started
                         </a>
                       </li>

@@ -12,9 +12,9 @@ const MainPage = () => {
     <HeroSection/>
     <BestRide/>
     <Pricing/>
-    {/* <ExtraIncome/> */}
+    <ExtraIncome/>
     <Customer/>
-    {/* <GetStarted/> */}
+    <GetStarted/>
     </>
   )
 }
