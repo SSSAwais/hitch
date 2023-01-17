@@ -45,11 +45,11 @@ const Header = () => {
                           className="dropdown-menu align-items-center"
                           aria-labelledby="navbarDropdownMenuLink"
                         >
-                          <li>
+                          {/* <li>
                             <a className="dropdown-item" href="#">
                               Action
                             </a>
-                          </li>
+                          </li> */}
                         
                         </ul>
                       </li>
